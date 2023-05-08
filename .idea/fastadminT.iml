@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/karsonzhang/fastadmin-addons" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/overtrue/pinyin" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/overtrue/socialite" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/overtrue/wechat" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/easywechat-composer/easywechat-composer" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/nelexa/zip" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/workerman/workerman" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/topthink/think-worker" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/topthink/think-queue" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/topthink/think-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/topthink/think-captcha" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/topthink/think-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/fastadmin/vendor/txthinking/mailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
